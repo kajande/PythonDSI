@@ -1,0 +1,92 @@
+[
+    {
+        "name": "Smartphone Galaxy X10",
+        "img": "images/smartphone.webp",
+        "price": "€699.99",
+        "reviews": 150,
+        "rating": 4,
+        "detailsUrl": "product-details.html?id=1",
+        "description": "Le Galaxy X10 est doté d'un écran AMOLED de 6,5 pouces, d'une caméra de 108 MP et d'une batterie longue durée."
+    },
+    {
+        "name": "Casque Bluetooth Pro",
+        "img": "https://via.placeholder.com/150?text=Casque",
+        "price": "€129.99",
+        "reviews": 320,
+        "rating": 5,
+        "detailsUrl": "product-details.html?id=2",
+        "description": "Profitez d'un son immersif avec ce casque Bluetooth de qualité supérieure, équipé d'une réduction active du bruit."
+    },
+    {
+        "name": "Montre Connectée FitPro",
+        "img": "https://via.placeholder.com/150?text=Montre",
+        "price": "€89.99",
+        "reviews": 210,
+        "rating": 4,
+        "detailsUrl": "product-details.html?id=3",
+        "description": "Suivez vos performances sportives avec la FitPro, une montre connectée élégante et résistante à l'eau."
+    },
+    {
+        "name": "Ordinateur Portable UltraBook",
+        "img": "images/laptop.webp",
+        "price": "€999.99",
+        "reviews": 85,
+        "rating": 4,
+        "detailsUrl": "product-details.html?id=4",
+        "description": "L'UltraBook offre une performance inégalée avec un processeur Intel Core i7, 16 Go de RAM et un disque SSD de 512 Go."
+    },
+    {
+        "name": "Écouteurs Sans Fil EarPods",
+        "img": "https://via.placeholder.com/150?text=Écouteurs",
+        "price": "€49.99",
+        "reviews": 540,
+        "rating": 5,
+        "detailsUrl": "product-details.html?id=5",
+        "description": "Compactes et pratiques, les EarPods offrent une autonomie de 8 heures avec un son cristallin."
+    },
+    {
+        "name": "Caméra Reflex ProShot",
+        "img": "images/camera.webp",
+        "price": "€499.99",
+        "reviews": 60,
+        "rating": 4,
+        "detailsUrl": "product-details.html?id=6",
+        "description": "Capturez vos meilleurs moments avec la ProShot, dotée d'un capteur 24 MP et d'un zoom optique 20x."
+    },
+    {
+        "name": "Tablette Graphique ArtPad",
+        "img": "https://via.placeholder.com/150?text=Tablette",
+        "price": "€239.99",
+        "reviews": 98,
+        "rating": 4,
+        "detailsUrl": "product-details.html?id=7",
+        "description": "L'ArtPad est idéale pour les artistes numériques, avec une sensibilité à la pression de 8192 niveaux et une précision exceptionnelle."
+    },
+    {
+        "name": "Imprimante 3D MakerBot",
+        "img": "https://via.placeholder.com/150?text=Imprimante+3D",
+        "price": "€799.99",
+        "reviews": 45,
+        "rating": 5,
+        "detailsUrl": "product-details.html?id=8",
+        "description": "Créez des prototypes et des objets personnalisés avec la MakerBot, une imprimante 3D conviviale et précise."
+    },
+    {
+        "name": "Clavier Mécanique Gaming",
+        "img": "https://via.placeholder.com/150?text=Clavier",
+        "price": "€99.99",
+        "reviews": 220,
+        "rating": 4,
+        "detailsUrl": "product-details.html?id=9",
+        "description": "Ce clavier mécanique rétroéclairé est parfait pour les gamers, avec des touches réactives et programmables."
+    },
+    {
+        "name": "Sac à Dos Étanche Trekking",
+        "img": "https://via.placeholder.com/150?text=Sac+à+Dos",
+        "price": "€59.99",
+        "reviews": 190,
+        "rating": 4,
+        "detailsUrl": "product-details.html?id=10",
+        "description": "Idéal pour les aventures en plein air, ce sac à dos étanche offre une grande capacité et un confort optimal."
+    }
+]
